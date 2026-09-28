@@ -20,14 +20,6 @@ Full-stack product engineer specializing in asynchronous architectures, distribu
 
 ---
 
-## 📜 Certifications:
-
-- **CS50x:** Introduction to Computer Science.
-- **CS50P:** Programming with Python.
-- **CS50SQL:** SQL for Databases.
-
----
-
 ## 📫 Contact & Links:
 - **Leetcode:** [Leetcode Profile](https://leetcode.com/u/adityatakle/)
 - **Codechef** [Codechef Profile](https://www.codechef.com/users/aditya_2575)
