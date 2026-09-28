@@ -20,12 +20,6 @@ Full-stack product engineer specializing in asynchronous architectures, distribu
 
 ---
 
-## 🎓 Education:
-
-- **BTech in Automation & Robotics** | Sandip Institute of Technology and Research Centre *(Aug 2023 - Present)*
-
----
-
 ## 📜 Certifications:
 
 - **CS50x:** Introduction to Computer Science.
